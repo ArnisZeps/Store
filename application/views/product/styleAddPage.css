@@ -1,0 +1,27 @@
+body{
+	width: 80%;
+	padding:20px;
+	margin: auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	margin: 0;
+}
+
+.addProduct{
+	margin-top: 5%;
+}
+
+.help{
+	margin-top: 2%;
+}
+
+.furniture{
+	margin-top: 2%;
+}
+
+
+#save{
+	font-family: 'Roboto', sans-serif;
+}
